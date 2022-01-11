@@ -41,7 +41,7 @@
     
   <div>
   <h4>🏢 I’m currently working on:
-  <img alt="Platinão" align="center" width="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftrabalheconosco.platinao.com.br%2F%3Fvaga%3Dfrentista&psig=AOvVaw2bIG9zonuAPqXinJBTnbj_&ust=1641994277164000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjqsK_nqfUCFQAAAAAdAAAAABAD">
+  <img alt="Platinão" align="center" width="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.linkedin.com%2Fcompany%2Fgrupoplatinao&psig=AOvVaw2bIG9zonuAPqXinJBTnbj_&ust=1641994277164000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjqsK_nqfUCFQAAAAAdAAAAABAU">
   </h4>
   </div>
    
