@@ -34,15 +34,14 @@
  
    
   <div>
-  <a href="https://github.com/wesley180320">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesley180320&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley180320&layout=compact&langs_count=7&theme=dracula"/>  
+  <a href="https://github.com/Everdrone2">
+   
   </div>    
    
     
   <div>
   <h4>🏢 I’m currently working on:
-  <img alt="incra" align="center" width="150" src="https://brandeps.com/logo-download/I/INCRA-logo-vector-01.svg">
+  <img alt="Platinão" align="center" width="150" src="https://drive.google.com/file/d/1_SHv7-hudeMpruCBEsOuxzyfG30RW6Qu/view?usp=sharing">
   </h4>
   </div>
    
@@ -50,7 +49,7 @@
     
 <div> 
   
-  <a href="https://www.instagram.com/wesleyds.souza/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"         target="_blank"></a>
-  <a href = "mailto:estevaoowesley@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/wesley-estevao-4a0372157"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-            badge&logo=linkedin&logoColor=white" width="100" target="_blank"></a>  
+  
+  <a href = "evrton.rodrigues@ufms.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/everton-rodrigues-de-almeida-3b486a21a/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-            badge&logo=linkedin&logoColor=white" width="100" target="_blank"></a>  
 </div>
