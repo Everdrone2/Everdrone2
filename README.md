@@ -21,14 +21,19 @@
       //sleep();
     }
     
-  <div style="display:flex">  
-  <h3>📖 learning:
-  <img alt="jg-Angular" align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img alt="jg-Angular" align="center" height="120" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain-wordmark.svg">
-  
-   
-  <h3>
-   </div>
+    <div style="display:flex">  
+    <h3>📖 learning:
+      <img alt="jg-Angular" align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+      <img alt="jg-Angular" align="center" height="120" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain-wordmark.svg">
+      <h3>
+    </div>
+    
+   <div align="center">
+    <a href="https://github.com/Everdrone2">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=everdrone2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everdrone2&layout=compact&langs_count=7&theme=dracula"/>
+  </div>
+    
     
     <h1> 📚 💼 </h1>
  
